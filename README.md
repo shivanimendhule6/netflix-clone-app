@@ -1,4 +1,4 @@
-# Netflix GPT
+# Netflix
 
 - Create React App with Vite
 - Configured TailwindCSS
@@ -21,6 +21,6 @@
         - Title & Description
         -  MovieSuggestions
             - MovieLists * N
-- Netflix GPT
+- Netflix
     - Serach Bar
     - Movie Suggestions
