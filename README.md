@@ -9,6 +9,8 @@
 - Form Validation
 - Form authontication
 - Deploy App to production
+- Added Redux Store
+- Redirect to Browse page
 
 # Fetaures
 - Login/ Sign Up
