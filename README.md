@@ -11,6 +11,9 @@
 - Deploy App to production
 - Added Redux Store
 - Redirect to Browse page
+- Implimented sign out
+- Resolved Bug for page redirection while sign in and sign out.
+- Added Constants file.
 
 # Fetaures
 - Login/ Sign Up
