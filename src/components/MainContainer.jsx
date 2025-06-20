@@ -8,7 +8,7 @@ export const MainContainer = () => {
     if(!movies) return ;
    const mainMovie = movies[0];
 
-   const {original_title , overview , id} = mainMovie; 
+   const {original_title , overview , id} = mainMovie;
 
     return (
         <div>

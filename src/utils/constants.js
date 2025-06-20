@@ -8,3 +8,6 @@ export const API_OPTIONS =  {
     Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3Y2JmYjc0YmJkNmMxMGRlZjM0YjI0ZmNmMjUxYjcxZSIsIm5iZiI6MTc0OTM4NDM5OC4xNzUsInN1YiI6IjY4NDU3Y2NlYzYxN2Q5NGRlYTIwNWUzYiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ZB8O1h7Ic5xqVrwll6O82CDpTUMNJd1nkAKHTMpm4ks'
   }
 };
+
+export const API_IMAGE_URL = "https://image.tmdb.org/t/p/w200";
+export const API_BASE_URL = "https://api.themoviedb.org/3";
